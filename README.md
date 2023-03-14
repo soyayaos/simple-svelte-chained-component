@@ -1,0 +1,1 @@
+# simple-svelte-chained-component
